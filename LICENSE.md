@@ -1,4 +1,4 @@
-# 
+# Free AI Expense Tracker with NLP tools. Featuring deep-learning-models and cloud-AI — optimized for maximum performance.
 
 
 
